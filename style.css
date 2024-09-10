@@ -1,3 +1,21 @@
-p {
-  color: blue;
+#landing {
+  background-image: url("landing.jpeg");
+}
+
+#poseidon {
+  background-image: url("poseidonPic.jpeg");
+}
+
+#hades {
+  background-image: url("hadesPic.jpeg");
+}
+
+#zues {
+  background-image: url("zeusPic.jpeg");
+}
+
+.text-container {
+  background-color: white;
+  color: black;
+  text-align: middle;
 }
