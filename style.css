@@ -1,17 +1,17 @@
 #landing {
-  background-image: url("landing.jpeg");
+  background-image: url(landing.jpeg);
 }
 
 #poseidon {
-  background-image: url("poseidonPic.jpeg");
+  background-image: url(poseidonPic.jpeg);
 }
 
 #hades {
-  background-image: url("hadesPic.jpeg");
+  background-image: url(hadesPic.jpeg);
 }
 
 #zues {
-  background-image: url("zeusPic.jpeg");
+  background-image: url(zeusPic.jpeg);
 }
 
 .text-container {
