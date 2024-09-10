@@ -1,21 +1,90 @@
 #landing {
   background-image: url(landing.jpeg);
+  background-size: 150%;
+  margin: 0%;
+  font-family: "Trebuchet MS", sans-serif;
 }
 
 #poseidon {
   background-image: url(poseidonPic.jpeg);
+  background-size: 120%;
+  margin: 0%;
+  font-family: "Trebuchet MS", sans-serif;
 }
 
 #hades {
   background-image: url(hadesPic.jpeg);
+  background-size: 125%;
+  margin: 0%;
+  font-family: "Trebuchet MS", sans-serif;
 }
 
-#zues {
+#zeus {
   background-image: url(zeusPic.jpeg);
+  background-size: 110%;
+  margin: 0%;
+  font-family: "Trebuchet MS", sans-serif;
 }
 
-.text-container {
+.text-container1 {
   background-color: white;
   color: black;
   text-align: middle;
+  padding: 25px 50px;
+  border-radius: 10px;
+  margin: 15% 0% 0% 50%;
+  width: 40%;
+}
+
+.text-container2 {
+  background-color: white;
+  color: black;
+  text-align: middle;
+  padding: 25px 50px;
+  border-radius: 10px;
+  margin: 10% 0% 0% 5%;
+  width: 40%;
+}
+
+.attributions {
+  background-color: white;
+  color: black;
+  text-align: middle;
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin: 1% 0% 0% 67%;
+  width: 10%;
+}
+
+.attributions p {
+  text-align: center;
+  font-size: 10pt;
+}
+
+table {
+  width: 90%;
+  text-align: center;
+}
+
+a {
+  background-color: #08333e;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12pt;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+h1 {
+  background-color: white;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  margin: 0%;
+  text-align: center;
+  font-size: 45px;
+  padding: 5px 0px 5px 0px;
 }
